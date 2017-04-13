@@ -1,7 +1,7 @@
 # ClickJackingPOC
 Python script to generate HTML with ClickJacking POC :) 
 
-@Usage clickJ.py <URL>
+@Usage clikJ.py <URL>
 
 LIBS NEED 
 
